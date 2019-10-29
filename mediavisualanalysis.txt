@@ -1,0 +1,111 @@
+ANTH 144: Archaeology of Religion
+ANTH 148: Topics in Complex Societies
+BIOE 113: Bioinstrumentation
+CCST 060: Introduction to Chicano/a Culture and Experiences
+COGS 101: Mind, Brain, and Computation
+COGS 110: Philosophy of Cognitive Science
+COGS 140: Perception and Action
+COGS 159: Metaphor and Thought
+CRES 001: Introduction to Critical Race and Ethnic Studies
+CRES 020: Introduction to Asian American Studies
+CRES 101: Race and the Media
+CRES 121: Critical Refugee Studies
+CRES 122: Comparative Immigrations
+CRES 123: Comparative Race and Ethnicity in the United States
+ECON 108: Marketing and Consumer Behavior
+ECON 112: GIS for World Economic History
+ENG 012: Introduction to Theatre and Performance
+ENG 032: Introduction to Chicano/a Culture and Experiences
+ENG 067: Environmental Ethics in Beast Fables
+ENG 114: Latinos/as in Children’s Literature and Film
+ENGR 158: Service Innovation
+ENGR 180: Spatial Analysis and Modeling
+ENVE 010: Environment in Crisis
+ENVE 030: Evaluating Sustainable Spaces: Leadership in Energy, Environment & Design (LEED)
+GASP 002: Introduction to Music Studies
+GASP 003: Intorduction to Visual Culture
+GASP 006: Global Art History
+GASP 007: Music in Society
+GASP 011: Painting I
+GASP 012A: Sculpture I
+GASP 013A: Design I
+GASP 014: Photography I
+GASP 015A: Multimedia I
+GASP 020: Video I
+GASP 034A: Songwriting 
+GASP 55A: Arts of Asia
+GASP 055B: Arts of the Islamic World
+GASP 055C: History of European Art and Architecture
+GASP 056: Contemporary Art
+GASP 057: Hisotry and Practice of Photography
+GASP 059: Topics in Visual Culture
+GASP 060: Introduction to Film Analysis
+GASP 060A: Anime and Animation
+GASP 064A: Topics in Film and Video
+GASP 065A: Bollywood
+GASP 066A: The American Musical
+GASP 070A: Music of the Pacific World
+GASP 070B: Music of the Atlantic World
+GASP 070C: Music of the Caribbean World
+GASP 075A: Meaning in Music
+GASP 075B: Love Songs
+GASP 076A: Social Dance
+GASP 079A: Recoding & Studio Techniques
+GASP 079B: Dance and Africana Identities
+GASP 080A: Introduction to Theatre and Performance
+GASP 089A: Topics in Theater
+GASP 109: Image and Sound
+GASP 110: Drawing II: Figure
+GASP 112A: Sculpture II
+GASP 114A: Photography II
+GASP 115A: Multimedia II
+GASP 119: Topics in Public Art
+GASP 120: Video II
+GASP 122: Conceptual Art
+GASP 144A: Art for Social Change
+GASP 156A: Visual Arts of the 20th Century
+GASP 156B: South Asia after Europe Visual Cultures of Colonialism
+GASP 156D: History of Ancient Roman Art and Architecture
+GASP 156E: History of Italian Renaissance Art and Architecture
+GASP 157: Critical Photography
+GASP 158B: Women, Gender, and Art in Islamic Cultures
+GASP 159: Topics in Visual Culture
+GASP 160: Film Theory and Criticism
+GASP 164A: Advanced Topics in Film and Video
+GASP 171: Museums as Contested Sites
+GASP 172: Curatorial Methods and Practices
+GASP 172A: Critical Popular Music Practices
+GASP 172B: Global Popular Music
+GASP 173A: Theory and Method of Ethnomusicology
+HIST 055: Arts of Islamic World
+HIST 055A: Arts of Asia
+HIST 123: Comparative Race and Ethnicity in the United States
+HIST 138: Topics in Visual Culture
+HIST 173: History of Ancient Roman Art and Architecture
+HIST 174: History of Italian Renaissance Art and Architecture
+MGMT 125: Entertainment Management
+MGMT 158: Service Innovation
+MIST 133: Service Innovation
+MIST 135: Technical Communication and Visualization Skills
+NSED 130: Technology in Education
+PH 103: Health Communication
+PHIL 110: Philosophy of Cognitive Science
+PSY 134: Adolescent Development
+PSY 156: Social Psychology
+PSY 162: Psychology of Visual Perception
+PSY 181: Clinical Neuropsychology
+SPAN 050: Introduction to Hispanic Literatures
+SPAN 060: Introduction to Chicano/a Culture and Experiences
+SPAN 111: Empire, The Postcolonial, and Representation: Reading East & West
+SPAN 114: Latinos/as in Children’s Literature and Film
+SPAN 144: Caribbean Literatures and Cultures
+SPAN 145: Novel of the Latin American Dictator
+SPAN 146: Latin American Film and Fiction
+SPAN 147: Latin American Boom
+SPAN 148: The Narrative World of Mario Vargas Llosa
+SPAN 151: Diasporas and Exiles in Latin America
+SPAN 154: Hispanic Drama and Performing
+SPAN 173: Erotic Novel and Film
+WH 110: 3D Modeling Cultural Heritage
+WH 112: GIS for World Economic History
+WH 160: Methods in Digital Heritage

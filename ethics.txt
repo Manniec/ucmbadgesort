@@ -1,0 +1,156 @@
+ANTH 001: Introduction to Sociocultural Anthropology
+ANTH 003: Introduction to Anthropological Archaeology
+ANTH 005: Introduction to Biological Anthropology
+ANTH 100: History of Anthropological Thought and Practice
+ANTH 110: Migration, Diaspora and Transnational Belonging
+ANTH 111: The Anthropology of Globalization
+ANTH 112: Political Anthropology
+ANTH 113: Urban Anthropology
+ANTH 114: Social Memory
+ANTH 116: Indigenous Activism in the Americas
+ANTH 117: The Anthropology of Citizenship
+ANTH 120: Introduction to Medical Anthropology
+ANTH 121: Ethnomedicine
+ANTH 122: Anthropological Perspectives on Religion and Healing
+ANTH 124: Ethnopsychology
+ANTH 126: Anthropological Approaches to Gender
+ANTH 130: Material Culture
+ANTH 134: Dynamics of Small-scale Societies
+ANTH 140: Cultural Heritage Policy and Practice
+ANTH 141: Writing Narrative for Archaeology
+ANTH 142: Archaeology of Colonialism
+ANTH 144: Archaeology of Religion
+ANTH 146: Topics in Small-Scale Societies
+ANTH 148: Topics in Complex Societies
+ANTH 149: Topics in Archaeological Anthropology
+ANTH 152: Dying, Death, and Dead Persons
+ANTH 155: Paleodemography
+ANTH 170: Ethnographic Methods
+ANTH 172: Ethnohistory
+BIO 034: Introduction to Marine Science
+BIO 043: Biodiversity and Conservation
+BIO 047: Astrobiology
+BIO 150L: Developmental Biology Laboratory
+BIOE 108: Genetic Engineering
+CCST 060: Introduction to Chicano/a Culture and Experiences
+CHEM 194: Ethics and Communication in Chemistry
+COGS 005: Introduction to Language and Linguistics
+COGS 159: Metaphor and Thought
+COGS 161: Experimental Philosophy
+COGS 170: Judgment and Decision Making
+CRES 001: Introduction to Critical Race and Ethnic Studies
+CRES 027: Local Harvest, Global Industry: History of the Production and Consumption of Food
+CRES 100: Theories in Critical Race and Ethnic Studies
+CRES 101: Race and the Media
+CRES 110: Interdisciplinary Methods in Critical Race and Ethnic Studies
+CRES 120: Race, Law and Civil Rights
+CRES 121: Critical Refugee Studies
+CRES 150: Asians in the Americas
+CRS 010: Introduction to Community Engaged Research
+CRS 195: Community Research and Service Experience
+CSE 005: Introduction to Computer Applications
+CSE 155: Introduction to Human-Computer Interaction
+ECON 149: Economics of Sports
+ECON 153: Judgment and Decision Making
+ECON 155: Political Economics
+ECON 172: Experimental Economics
+ENG 010: Foundations of Literary Studies
+ENG 018: Crime and Horror in Victorian Literature and Culture
+ENG 031: Introduction to African American Literature and Culture
+ENG 032: Introduction to Chicano/a Culture and Experiences
+ENG 033: Literature and Sexuality
+ENG 064: LGBT Fiction
+ENG 067: Environmental Ethics in Beast Fables
+ENG 100: Engaging Texts: Introduction to Critical Practice
+ENG 103: British and American Literature, 1830-1940
+ENG 109: Encounters with Islam in Eighteenth- and Nineteenth-Century British Literature
+ENG 114: Latinos/as in Children’s Literature and Film
+ENG 156: Oscar Wilde: Artist, Martyr, Celebrity
+ENG 185: Reading from the Margin
+ENGR 097: Engineering Service Learning
+ENGR 197: Engineering Service Learning
+ENGR 175: Information Systems for Management
+ENGR 190: Engineering Capstone Design
+ENVE 164: Energy Policy
+ENVE 190: Environmental Engineering Capstone Design
+ESS 034: Introduction to Marine Science
+ESS 043: Biodiversity and Conservation
+ESS 047: Astrobiology
+FRE 103: French Composition and Conversation
+GASP 070A: Music of the Pacific World
+GASP 070B: Music of the Atlantic World
+GASP 070C: Music of the Caribbean World
+GASP 075A: Meaning in Music
+GASP 076A: Social Dance
+GASP 172: Curatorial Methods and Practices
+GASP 172A: Critical Popular Music Studies
+GASP 172B: Global Popular Music
+GASP 173A: Theory and Method of Ethnomusicology
+GASP 174A: Music, Gender, and Sexuality
+HIST 027: Local Harvest, Global Industry: History of the Production and Consumption of Food
+JPN 103: Advanced Japanese I
+JPN 104: Advanced Japanese II
+ME 170: Mechanical Engineering Capstone Design
+MGMT 122: Teams and Organizations
+MGMT 123: Business Ethics
+MGMT 124: Organizational Behavior and Leadership
+MGMT 125: Entertainment Management
+MGMT 127: Public Sector and Non-profit Management
+MGMT 135: Business Law
+MGMT 136: Advanced Business Law
+MGMT 153: Judgment and Decision Making
+MGMT 170: Information Systems for Management
+MIST 130: Statistical Data Analysis and Optimization in R for Decision Support
+MIST 164: Energy Policy
+MIST 175: Information Systems for Management
+MSE 120: Materials Capstone Design
+PH 005: Global and International Public Health
+PHIL 002: Introduction to Ethics
+PHIL 003: Contemporary Moral Problems
+PHIL 104: Ethical Theory
+PHIL 131: Topics in Ancient Philosophy
+PHIL 157: Philosophy of Love and Friendship
+PHIL 170: Philosophy, Politics and Economics
+PHIL 172: Experimental Philosophy
+PHYS 195: Upper Division Undergraduate Research
+PHYS 196: Undergraduate Thesis
+POLI 153: Judgment and Decision Making
+POLI 158: Politics of Human Rights
+PSY 015: Research Methods in Psychology
+POLI 112: Public Policy: Analysis, Strategy, and Impact
+PSY 125: Cognition, Affect, and Health
+PSY 133: Neurodevelopmental Cognitive, Language and Learning Disorders
+PSY 140: Clinical Psychology
+PSY 142: Abnormal Psychology
+PSY 156: Social Psychology
+PSY 171: Psychological Tests and Measurements
+PSY 183: Introduction to Human Behavioral Genetics
+PSY 195: Upper Division Undergraduate Research
+SOC 015: Sociological Research Methods
+SOC 107: Law and Society
+SOC 145: Sociology of Health
+SOC 170: Qualitative Research Methods
+SOC 175: Topics in Advanced Sociological Research Methods
+SPAN 050: Introduction to Hispanic Literatures
+SPAN 060: Introduction to Chicano/a Culture and Experiences
+SPAN 100: Engaging Texts: Introduction to Critical Practice
+SPAN 105: Hispanic Cultures I
+SPAN 106: Hispanic Cultures II
+SPAN 107: Spanish for Health Professionals
+SPAN 108: Spanish for Business and Management
+SPAN 111: Empire, The Postcolonial, and Representation: Reading East & West
+SPAN 114: Latinos/as in Children’s Literature and Film
+SPAN 140: Latin American Colonial Literature
+SPAN 143: Latin American Literature since Independence
+SPAN 144: Caribbean Literatures and Cultures
+SPAN 145: Novel of the Latin American Dictator
+SPAN 146: Latin American Film and Fiction
+SPAN 147: Latin American Boom
+SPAN 148: The Narrative World of Mario Vargas Llosa
+SPAN 150: Asians in the Americas
+SPAN 151: Diasporas and Exiles in Latin America
+SPAN 177: Sociolinguistics and Latino Health
+SPAN 195: Upper Divisoin Undergraduate Research
+WH 140: Cultural Heritage Policy and Practice
+WH 190: Topics in World Heritage
+WRI 141: Writing Narrative for Archaeology
