@@ -1,0 +1,61 @@
+ANTH 111: The Anthropology of Globalization
+ANTH 113: Urban Anthropology
+ANTH 116: Indigenous Activism in the Americas
+ANTH 117: The Anthropology of Citizenship
+BIO 124: Microbial Evolution
+COGS 005: Introduction to Language and Linguistics
+CRS 010: Introduction to Community Engaged Research
+CRS 195: Community Research and Service Experience
+ENG 097: Engineering Service Learning
+ENR 197: Engineering Service Learning
+ENG 192: Internship in English
+ENGR 190: Engineering Capstone Design
+ENVE 164: Energy Policy
+ENVE 190: Environmental Engineering Capstone Design
+GASP 092: Internship in Global Arts
+GASP 173A: Theory and Method of Ethnomusicology
+GASP 192: Internship in Global Arts
+ME 170: Mechanical Engineering Capstone Design
+MGMT 118: Women in Executive Leadership
+MGMT 124: Organizational Behavior and Leadership
+MGMT 127: Public Sector and Non-profit Management
+MIST 040: Sucess through Interpersonal Social Skills
+MIST 050: Introduction to Entrepreneurship
+MIST 130: Statistical Data Analysis and Optimization in R for Decision Support
+MIST 135: Technical Communication and Visualization Skills
+MIST 164: Energy Policy
+MSE 120: Materials Capstone Design
+NSED 023: Introduction to Teaching Science in Elementary School
+NSED 024: Fieldwork: Introduction to Teaching Science in Elementary School
+NSED 033: Introduction to Teaching Mathematics in Elementary School
+NSED 034: Fieldwork: Introduction to Teaching Mathematics in Elementary School
+NSED 043: Introduction to Teaching Science in Middle School
+NSED 044: Fieldwork: Introduction to Teaching Science in Middle School
+NSED 053: Introduction to Teaching Mathematics in Middle School
+NSED 054: Fieldwork: Introduction to Teaching Mathematics in Middle School
+NSED 063: Introduction to Teaching Science in High School
+NSED 064: Fieldwork: Introduction to Teaching Science in High School
+NSED 073: Introduction to Teaching Mathematics in High School
+NSED 074: Fieldwork: Introduction to Teaching Mathematics in High School
+NSED 150: Research Methods in Education
+PHIL 002: Introduction to Ethics
+PHIL 003: Contemporary Moral Problems
+PHIL 102: Epistemology
+PHIL 170: Philosophy, Politics and Economics
+POLI 009: Community Mobilization and Politics
+POLI 092: Internship in Political Science
+POLI 107: California Politics
+POLI 108: Direct Democracy
+POLI 112: Public Policy: Analysis, Strategy, and Impact
+POLI 135: Political Behavior Around the World
+POLI 192: Internship in Political Science
+SOC 009: Community Mobilization and Politics
+SOC 110: Social Movements, Protest and Collective Action
+SOC 111: Environmental Sociology
+SOC 115: Political Sociology
+SOC 140: Organizational Behavior
+SPAN 092: Internship in Spanish
+SPAN 107: Spanish for Health Professionals
+SPAN 111: Empire, The Postcolonial, and Representation: Reading East & West
+SPAN 192: Internship in Spanish
+WH 190: Topics in World Heritage

@@ -1,7 +1,10 @@
 ## main function for ucm badge sort
 ## takes input files, returns a sorted list of courses that appear most in input files
-## format for input files is a list of classes of the format 'DEPT001', i.e. CSE100
-## Christopher Ahrens and Wyssanie Chomsin, 2019
+## format for input files is a list of classes, checks for duplicates.
+## prints classes with most duplicates, with classes fulfilling most requirements at bottom.
+## Christopher Ahrens, 2019
+
+import sys
 
 FILES = []
 
@@ -11,7 +14,7 @@ for i in range(len(sys.argv)-1):
 COURSES = []
 
 for file in FILES:
-    for line in FILES[file]:
+    for line in file:
         entry = line.strip().split('\t')
         hasDuplicate = False
         for course in COURSES:
@@ -21,5 +24,10 @@ for file in FILES:
         if not hasDuplicate:
             COURSES.append([entry, 1])
 
+COURSES.sort(key=lambda tup: tup[1])
 
 for i in COURSES:
+    if(i[1] == 1):
+        print(i[1], "badge  -", i[0][0])
+    else:
+        print(i[1], "badges -", i[0][0])

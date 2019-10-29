@@ -1,0 +1,60 @@
+ANTH 005: Introduction to Biological Anthropology
+ANTH 144: Archaeology of Religion
+ANTH 148: Topics in Complex Societies
+ANTH 151: Human Adaptability
+ANTH 160: Human Origins
+BIO 001: Contemporary Biology
+BIO 034: Introduction to Marine Science
+BIO 043: Biodiversity and Conservation
+BIO 113: Sustainability in the Anthropocene
+BIO 129: Paleoecology
+BIO 130: Plant Biology
+BIO 148: Fundamentals of Ecology
+BIO 172: Sustainability of Agricultural Ecosystems
+BIOE 108: Genetic Engineering
+BIOE 135: Biochemistry for Engineers
+BIOE 150: Bioengineering Design
+CCST 060: Introduction to Chicano/a Culture and Experiences
+COGS 122: Agent-Based Modeling
+CRES 027: Local Harvest, Global Industry: History of the Production and Consumption of Food
+ECON 120: Economics of the Environment and Public Policy
+ECON 126: Economics of Innovation and Entrepreneurship
+ECON 151: The Economics of Government and Business
+ECON 156: Urban and Regional Economics
+ECON 161: International Finance and Trade
+ECON 164: Economics of Emerging Markets
+ENG 032: Introduction to Chicano/a Culture and Experiences
+ENG 067: Environmental Ethics in Beast Fables
+ENG 122: Nature Writing and the Environment 
+ENGR 180: Spatial Analysis and Modeling
+ENGR 190: Engineering Capstone Design
+ENVE 010: Environment in Crisis
+ENVE 030: Evaluating Sustainable Spaces: Leadership in Energy, Environment & Design (LEED)
+ENVE 140: Water Resources Planning and Management
+ENVE 164: Energy Policy
+ENVE 190: Environmental Engineering Capstone Design
+ESS 002: Sustainability Science
+ESS 010: Earth Resources and Society
+ESS 015: Weather, Climate, and the Environment
+ESS 020: Fundamentals of Geology
+ESS 034: Introduction to Marine Science
+ESS 043: Biodiversity and Conservation
+ESS 113: Sustainability in the Anthropocene
+ESS 129: Paleoecology
+ESS 130: Plant Biology
+ESS 148: Fundamentals of Ecology
+ESS 172: Sustainability of Agricultural Ecosystems
+HIST 010: Introduction to World History to 1500
+HIST 025: Introduction to Environmental History
+HIST 027: Local Harvest, Global Industry: History of the Production and Consumption of Food
+HIST 051: History of Things
+HIST 110: Environmental History of the World
+HIST 180: The Silk Road
+ME 170: Mechanical Engineering Capstone Design
+MIST 164: Energy Policy
+MSE 120: Materials Capstone Design
+PH 110: Environmental Health
+PH 137: Insects and Public Health
+PHIL 170: Philosophy, Politics and Economics
+SOC 111: Environmental Sociology
+SPAN 060: Introduction to Chicano/a Culture and Experiences
