@@ -6,8 +6,11 @@ Use at own risk.
 
 ## main.py Usage
 
-Using main.py, run using a .txt matching the format of the ones listed below.
-Copying and pasting the list of classes from pages like [this one](https://ge.ucmerced.edu/intellectual-experience-badges/leadership-community-and-engaging-world) should work fine.
+Using main.py, run using a text file matching the format of the ones listed below. 
+Copying and pasting the list of classes from pages like [this one](https://ge.ucmerced.edu/intellectual-experience-badges/leadership-community-and-engaging-world) should work fine. 
+Supports any amount of text files.
+
+**compile using python 3.6 or later**
 
 #### Supported files for main.py:
 1. mediavisualanalysis.txt
