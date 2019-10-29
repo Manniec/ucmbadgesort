@@ -3,6 +3,8 @@
 ## format for input files is a list of classes of the format 'DEPT001', i.e. CSE100
 ## Christopher Ahrens and Wyssanie Chomsin, 2019
 
+import sys
+
 FILES = []
 
 for i in range(len(sys.argv)-1):
@@ -23,3 +25,4 @@ for file in FILES:
 
 
 for i in COURSES:
+    print(i)
