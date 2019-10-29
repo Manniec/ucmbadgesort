@@ -28,6 +28,6 @@ COURSES.sort(key=lambda tup: tup[1])
 
 for i in COURSES:
     if(i[1] == 1):
-        print(i[1], "badge  -", i[0])
+        print(i[1], "badge  -", i[0][0])
     else:
-        print(i[1], "badges -", i[0])
+        print(i[1], "badges -", i[0][0])
