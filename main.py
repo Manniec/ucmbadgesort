@@ -13,7 +13,7 @@ for i in range(len(sys.argv)-1):
 COURSES = []
 
 for file in FILES:
-    for line in FILES[file]:
+    for line in file:
         entry = line.strip().split('\t')
         hasDuplicate = False
         for course in COURSES:
@@ -23,6 +23,7 @@ for file in FILES:
         if not hasDuplicate:
             COURSES.append([entry, 1])
 
+COURSES.sort(key=lambda tup: tup[1])
 
 for i in COURSES:
     print(i)
