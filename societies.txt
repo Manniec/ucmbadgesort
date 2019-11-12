@@ -1,0 +1,212 @@
+ANTH 003: Introduction to Anthropological Archaeology
+ANTH 005: Introduction to Biological Anthropology
+ANTH 100: History of Anthropological Thought and Practice
+ANTH 111: The Anthropology of Globalization
+ANTH 113: Urban Anthropology
+ANTH 117: The Anthropology of Citizenship
+ANTH 120: Introduction to Medical Anthropology
+ANTH 121: Ethnomedicine
+ANTH 122: Anthropological Perspectives on Religion and Healing
+ANTH 124: Ethnopsychology
+ANTH 126: Anthropological Approaches to Gender
+ANTH 130: Material Culture
+ANTH 134: Dynamics of Small-scale Societies
+ANTH 140: Cultural Heritage Policy and Practice
+ANTH 141: Writing Narrative for Archaeology
+ANTH 142: Archaeology of Colonialism
+ANTH 144: Archaeology of Religion
+ANTH 146: Topics in Small-Scale Societies
+ANTH 148: Topics in Complex Societies
+ANTH 149: Topics in Archaeological Anthropology
+ANTH 155: Paleodemography
+ANTH 172: Ethnohistory
+ANTH 174: Lithic Artifact Analysis
+CCST 060: Introduction to Chicano/a Culture and Experiences
+COGS 005: Introduction to Language and Linguistics
+CRES 001: Introduction to Critical Race and Ethnic Studies
+CRES 027: Local Harvest, Global Industry: History of the Production and Consumption of Food
+CRES 101: Race and the Media
+CRES 120: Race, Law and Civil Rights
+CRES 123: Comparative Race and Ethnicity in the United States
+CRES 127BR: African American History 1877 to Present: Research
+CRES 144: Ancient Africa: Crossroads of the World
+CRES 151: British Romanticism and India
+ECON 111: American Economic History
+ECON 112: GIS for World Economic History
+ECON 121: The Economics of Money, Banking, and Financial Institutions
+ECON 131: History of Economic Thought
+ECON 147: Introduction to Economic Growth
+ECON 155: Political Economics
+ENG 018: Crime and Horror in Victorian Literature and Culture
+ENG 020: Introduction to Shakespeare
+ENG 021: Jane Austen and Popular Culture
+ENG 031: Introduction to African American Literature and Culture
+ENG 032: Introduction to Chicano/a Culture and Experiences
+ENG 033: Literature and Sexuality
+ENG 056: Introduction to World Drama
+ENG 066: Literary Romance
+ENG 067: Environmental Ethics in Beast Fables
+ENG 101: Medieval and Renaissance Literature and Culture, 800-1660
+ENG 102: Literature of the Long Eighteenth Century, 1660-1830
+ENG 103: British and American Literature, 1830-1940
+ENG 107: “The Age of Enlightenment” in the Long Eighteenth Century
+ENG 109: Encounters with Islam in Eighteenth- and Nineteenth-Century British Literature
+ENG 110: British Romanticism and India
+ENG 113: U.S. Latino/a Literature
+ENG 114: Latinos/as in Children’s Literature and Film
+ENG 115: Chicano/a Literature
+ENG 116: Literature and History of the 1960s
+ENG 151: Advanced Shakespeare
+ENG 153: Robert Louis Stevenson
+ENG 156: Oscar Wilde: Artist, Martyr, Celebrity
+ENG 160: Dickens: The Early Years
+ENG 185: Reading from the Margin
+GASP 006: Global Art History
+GASP 030A: Latin Music Ensemble
+GASP 031A: Latin Dance Ensemble 
+GASP 031C: Swing Dance Ensemble 
+GASP 041A: Performative Storytelling
+GASP 055A: Arts of Asia
+GASP 055B: Arts of the Islamic World
+GASP 055C: History of European Art and Architecture
+GASP 059: Topics in Visual Culture
+GASP 060: Introduction to Film Analysis
+GASP 065A: Bollywood
+GASP 064A: Topics in Film and Video
+GASP 070A: Music of the Pacific World
+GASP 070B: Music of the Atlantic World
+GASP 070C: Music of the Caribbean World
+GASP 075B: Love Songs
+GASP 076A: Social Dance
+GASP 080B: Introduction to World Drama
+GASP 103S: Advanced Shakespeare
+GASP 144A: Art for Social Change
+GASP 156A: Visual Arts of the 20th Century
+GASP 156B: South Asia after Europe Visual Cultures of Colonialism
+GASP 156D: History of Ancient Roman Art and Architecture
+GASP 156E: History of Italian Renaissance Art and Architecture
+GASP 158B: Women, Gender, and Art in Islamic Cultures
+GASP 159: Topics in Visual Culture
+GASP 160: Film Theory and Criticism
+GASP 164A: Advanced Topics in Film and Video
+GASP 171: Museums as Contested Sites
+GASP 172A: Critical Popular Music Practices
+GASP 172B: Global Popular Music
+GASP 174A: Music, Gender, and Sexuality
+HIST 010: Introduction to World History to 1500
+HIST 011: Introduction to World History Since 1500
+HIST 016: Forging of the United States, 1607-1877
+HIST 017: Twentieth-Century America
+HIST 027: Local Harvest, Global Industry: History of the Production and Consumption of Food
+HIST 030B: Early Modern Europe
+HIST 039: Topics in U.S. History
+HIST 040: History of Technology in Society I
+HIST 041: History of Technology in Society II
+HIST 042: The Body in Health and Disease - An Introduction to the History of Medicine
+HIST 051: History of Things
+HIST 055: Arts of the Islamic World
+HIST 055A: Arts of Asia
+HIST 060: The Silk Road
+HIST 070: History of the Middle East to 1500
+HIST 071: History of the Middle East since 1500
+HIST 100: The Historian's Craft
+HIST 106: Topics in History of Women and Gender
+HIST 107: Topics in Urban History
+HIST 108: Topics in World History
+HIST 109: Topics in the History of Science and Technology
+HIST 110: Environmental History of the World
+HIST 111: The Legacy of Genghis Khan
+HIST 113: History of the Gunpowder Empires
+HIST 115: Topics in African History
+HIST 116: Hisory of Decolonization in the Twentieth Century
+HIST 117R: Topics in Regional or State Hisotry: Research
+HIST 120: Essence of Decision: Case Studies of History
+HIST 123: Comparative Race and Ethnicity in the United States 
+HIST 124A: African American History to 1877
+HIST 124B: African American History 1877 to Present
+HIST 124BR: African American History 1877 to Present: Research
+HIST 128: The United States and the Vietnam War
+HIST 130: The Cold War, 1941-1991
+HIST 132: Intelligence and National Security, 1945-2000
+HIST 133: Topics in Nineteenth Century U.S. History
+HIST 135: Literature and History of the 1960s
+HIST 137: Gender, Race, and Slavery in American History
+HIST 138: Topics in Visual Culture
+HIST 139: Topics in United States History
+HIST 140: Modern Africa
+HIST 141: The African Diaspora
+HIST 142: Topics in Latin American History
+HIST 143: West Africa and the Making of the Atlantic World
+HIST 144: Ancient Africa: Crossroads of the World
+HIST 156B: South Asia after Europe Visual Cultures of Colonialism
+HIST 158: Topics in Middle Eastern History
+HIST 158R: Topcis in Middle Eastern History: Research
+HIST 159: History of Iran
+HIST 165A: China in the Ancient World
+HIST 165B: From Tang to Song: China in the Medieval World
+HIST 165C: Late Imperial China
+HIST 165D: China in the Modern World
+HIST 169: History and Heritage of Tibet
+HIST 170: Law and Society in Early Modern England
+HIST 170R: Law and Society in Early Modern England: Research
+HIST 171: Modern European Intellectual History
+HIST 172: Europe and the Early Modern Atlantic World
+HIST 173: History of Ancient Roman Art and Architecture
+HIST 174: History of Italian Renaissance Art and Architecture
+HIST 179: Topics in European History
+HIST 180: The Silk Road
+HIST 181: Historical Geography of North America
+HIST 187R: White Supremacy and White Violence in the US: Research
+HIST 191: History Capstone Seminar
+PH 001: Introduction to Public Health
+PH 105: Introduction to US Health Care System
+PHIL 002: Introduction to Ethics
+PHIL 102: Epistemology
+PHIL 104: Ethical Theory
+PHIL 108: Political Philosophy
+POLI 003: Introduction to Comparative Politics
+POLI 005: Introduction to International Relations
+POLI 006: Global Issues
+POLI 106: Urban Politics
+POLI 130: Institutions of Democracy
+POLI 140: Transitions to Democracy
+POLI 142: Contemporary Chinese Politics
+POLI 160: US Foreign Policy
+PSY 145: Human Sexuality
+PSY 170: Industrial and Organizational Psychology
+PSY 182: Evolutionary Psychology
+SPAN 050: Introduction to Hispanic Literatures
+SPAN 060: Introduction to Chicano/a Culture and Experiences
+SPAN 105: Hispanic Cultures I
+SPAN 106: Hispanic Cultures II
+SPAN 111: Empire, The Postcolonial, and Representation: Reading East & West
+SPAN 112: Chicano/a Literature Written in Spanish
+SPAN 113: U.S. Latino/a Literature
+SPAN 114: Latinos/as in Children’s Literature and Film
+SPAN 115: Chicano/a Literature
+SPAN 122: Spanish (Peninsular) 18-19 Centuries
+SPAN 123: Spanish (Peninsular) 20-21 Centuries
+SPAN 130: The Transatlantic Baroque
+SPAN 131: Transatlantic Modernismo
+SPAN 140: Latin American Colonial Literature
+SPAN 144: Caribbean Literatures and Cultures
+SPAN 145: Novel of the Latin American Dictator
+SPAN 146: Latin American Film and Fiction
+SPAN 147: Latin American Boom
+SPAN 148: The Narrative World of Mario Vargas Llosa
+SPAN 151: Diasporas and Exiles in Latin America
+SPAN 153: Bilingualism and Borders in Hispanic Literatures
+SPAN 154: Hispanic Drama and Performing
+SPAN 172: History of the Spanish Language
+SPAN 173: Erotic Novel and Film
+WH 002: Introduction to Digital Heritage
+WH 110: 3D Modeling Cultural Heritage
+WH 112: GIS for World Economic History
+WH 140: Cultural Heritage Policy and Practice
+WH 150: Geographic Information Systems for Cultural and Environmental Heritage
+WH 160: Methods in Digital Heritage
+WH 169: History and Heritage of Tibet
+WH 181: Historical Geography of North America
+WH 183: The Cultural Landscape
+WH 185: Ethnic Geography
+WRI 141: Writing Narrative for Archaeology
